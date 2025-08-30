@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.pexels.com/photos/158571/ibis-bird-red-animals-158571.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "question": "What type of bird is shown in this image?",
+    "answers": ["Flamingo", "Ibis", "Heron", "Stork"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "image": "https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "question": "What celestial body is visible in this image?",
+    "answers": ["Sun", "Moon", "Star", "Planet"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "image": "https://images.pexels.com/photos/1133957/pexels-photo-1133957.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "question": "What type of landscape is shown?",
+    "answers": ["Desert", "Forest", "Mountain", "Ocean"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "image": "https://images.pexels.com/photos/158028/beluga-whale-sea-ocean-mammal-158028.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "question": "What marine animal is this?",
+    "answers": ["Dolphin", "Shark", "Beluga Whale", "Seal"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 5,
+    "image": "https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "question": "What musical instrument is shown?",
+    "answers": ["Guitar", "Piano", "Violin", "Drums"],
+    "correctAnswer": 0
+  }
+]
