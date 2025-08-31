@@ -1,37 +1,341 @@
 [
   {
     "id": 1,
-    "image": "https://images.pexels.com/photos/158571/ibis-bird-red-animals-158571.jpeg?auto=compress&cs=tinysrgb&w=400",
-    "question": "What type of bird is shown in this image?",
-    "answers": ["Flamingo", "Ibis", "Heron", "Stork"],
-    "correctAnswer": 1
+    "image": "https://www.watelectronics.com/wp-content/uploads/Trimmer-Resistor-Symbol.png",
+    "question": "¿Que elemento electronico Representa este simbolo?",
+    "answers": ["Trimmer","Fotorresistencia","Termistor","Potenciometro"],
+    "correctAnswer": 0
   },
   {
     "id": 2,
-    "image": "https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg?auto=compress&cs=tinysrgb&w=400",
-    "question": "What celestial body is visible in this image?",
-    "answers": ["Sun", "Moon", "Star", "Planet"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Potentiometer.jpg",
+    "question": "¿Que componenete electronico es este?",
+    "answers": ["transistor","Potenciometro","Diodo","Resistencia"],
     "correctAnswer": 1
   },
   {
     "id": 3,
-    "image": "https://images.pexels.com/photos/1133957/pexels-photo-1133957.jpeg?auto=compress&cs=tinysrgb&w=400",
-    "question": "What type of landscape is shown?",
-    "answers": ["Desert", "Forest", "Mountain", "Ocean"],
-    "correctAnswer": 2
+    "image": "https://electronicaonline.net/wp-content/uploads/2023/04/Trimmer-multivuelta.png",
+    "question": "¿Que componenete electronico es este?",
+    "answers": ["Potenciometro","Diodo","Resistencia","Trimmer"],
+    "correctAnswer": 3
   },
   {
     "id": 4,
-    "image": "https://images.pexels.com/photos/158028/beluga-whale-sea-ocean-mammal-158028.jpeg?auto=compress&cs=tinysrgb&w=400",
-    "question": "What marine animal is this?",
-    "answers": ["Dolphin", "Shark", "Beluga Whale", "Seal"],
-    "correctAnswer": 2
+    "image": "https://laelectronica.com.gt/image/catalog/Blog/Resistencias/LDR/LDR.jpg",
+    "question": "¿Que componenete electronico es este?",
+    "answers": ["Trimmer","Fotorresistencia","Termistor","Potenciometro"],
+    "correctAnswer": 1
   },
   {
     "id": 5,
-    "image": "https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&w=400",
-    "question": "What musical instrument is shown?",
-    "answers": ["Guitar", "Piano", "Violin", "Drums"],
+    "image": "https://solectroshop.com/img/cms/termistores/1_termistor.webp",
+    "question": "¿Que componenete electronico es este?",
+    "answers": ["Termistor","Fotorresistencia","Trimmer","Potenciometro"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Thermistor.svg/1200px-Thermistor.svg.png",
+    "question": "¿Que elemento electronico Representa este simbolo?",
+    "answers": ["Fotorresistencia","Termistor","Trimmer","Potenciometro"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "image": "https://thumbs.dreamstime.com/b/fondo-blanco-del-s%C3%ADmbolo-el%C3%A9ctrico-de-la-resistencia-dependiente-luz-ldr-photoresistor-imagen-ilustraci%C3%B3n-generada-por-278855794.jpg",
+    "question": "¿Que componenete electronico es este?",
+    "answers": ["Trimmer","Termistor","Fotorresistencia","Potenciometro"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 8,
+    "image": "https://m.media-amazon.com/images/I/61ieDsRWHoL.jpg",
+    "question": "¿Que componenete electronico es este?",
+    "answers": ["Interrumptor selector","switch","pulsador electronico","Rele"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "image": "https://electronilab.co/wp-content/uploads/2019/02/Micro-Boton-Pulsador-Switch-de-4-pines-1.jpg",
+    "question": "¿Que componenete electronico es este?",
+    "answers": ["Interrumptor selector","switch","pulsador electronico","Rele"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "image": "https://ingecomsas.com/wp-content/uploads/2022/05/Final-SPK-3-1-Finla.jpg",
+    "question": "¿Que componenete electronico es este?",
+    "answers": ["Rele","Final de carrera","pulsador electronico","Dip"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "image": "https://solectroshop.com/img/cms/18032022%20Blog/6.webp",
+    "question": "¿Que componenete electronico es este?",
+    "answers": ["Final de carrera","pulsador electronico","Interrumptor selector","Rele"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 12,
+    "image": "https://jdelectricos.com.co/wp-content/uploads/2021/08/interruptor-unipolar.jpg",
+    "question": "¿Que componenete electronico es este?",
+    "answers": ["dip","Switch","pulsador electronico","Interrumptor selector"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "image": "https://images-cdn.ubuy.com.ro/661659a3b96306693f6b1d0f-steren-8-position-dip-switch.jpg",
+    "question": "¿Que elemento electronico Representa este simbolo?",
+    "answers": ["pulsador electronico","Rele","Dip","Interrumptor selector"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAbeaZRZDheb8gHPMrln7Jl2zUCQfd9HbeEA&s",
+    "question": "¿Que componenete electronico es este?",
+    "answers": ["Switch","Resistencia","Diodo","Capacitor"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3Etf3Y-QeeZC6wQNQcUbYl4wXV1jzkwySw&s",
+    "question": "¿Que componenete electronico es este?",
+    "answers": ["Resistencia","Trimmer","Fusible","Switch"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 16,
+    "image": "https://ielectel.com/wp-content/uploads/2024/02/simbolo-del-fusible.png",
+    "question": "¿Que elemento electronico Representa este simbolo?",
+    "answers": ["Diodo","Capacitor","Transistor","Fusible"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 17,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_0zZD9-TsqRY6IPj2lhPZdhTrKD1UztdJQA&s",
+    "question": "¿Que elemento electronico Representa este simbolo?",
+    "answers": ["Condensador","Capacitor","Transistor","Fusible"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIy-tLd6IymAcC3sI9Jn_pgJQcJnxYh0f_Sw&s",
+    "question": "¿Que elemento electronico Representa este simbolo?",
+    "answers": ["Capacitor ceramico","capacitor de tantalo","fotoresistor","Condensador"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "image": "https://electronilab.co/wp-content/uploads/2021/06/Kit-de-Condensadores-Ceramicos-de-Poliester-electronilab-5.jpg",
+    "question": "¿que tipo de capacitor es?",
+    "answers": ["hidrolitico","ceramico","tantalo","mkt"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcIZHxfmMZm65auOynX9P71ergnHmM_Sn02g&s",
+    "question": "¿que tipo de capacitor es?",
+    "answers": ["Capacitor de tantalo","Capacitor SMD" ,"Capacitor ceramico","Capacitor MKT"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 21,
+    "image": "https://www.electronicaplugandplay.com/components/com_mijoshop/opencart/image/cache/catalog/componentes_pasivos/condensadores/SMD/Ceramicos/27pF-50V-0603-500x500.png",
+    "question": "¿que tipo de capacitor es?",
+    "answers": ["Capacitor MKT","Capacitor SMD","Capacitor de tantalo","Capacitor ceramico"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 22,
+    "image": "https://www.mechatronicstore.cl/wp-content/uploads/Diodo-Zener-1N4727-3V-1W-paquete-de-100.jpg_Q90.jpg_.webp",
+    "question": "¿De que material es este elemento?",
+    "answers": ["silicio","tantalo","germanaio","Cobre"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 23,
+    "image": "https://ielectel.com/wp-content/uploads/2024/02/simbolo-del-diodo.png",
+    "question": "¿Que elemento electronico Representa este simbolo?",
+    "answers": ["Capacitor","Transistor","Diodo","Fusible"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 24,
+    "image": "https://sumador.com/cdn/shop/products/DiodosZenerde5W-min_2048x2048.jpg?v=1589123252",
+    "question": "¿Que componenete electronico es este?",
+    "answers": ["Diodo","Transistor","Capacitor","Resistencia"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLmPiHqYvb47thWDZLGQ0fLNRiStHQVeUA-g&s",
+    "question": "¿Que elemento electronico Representa este simbolo?",
+    "answers": ["Transistor ","Diodo","puente rectificador","Zener"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 26,
+    "image": "https://sumador.com/cdn/shop/products/Puenterectificadorde8AKBU810_2048x2048.jpg?v=1588543268",
+    "question": "¿Que componenete electronico es este?",
+    "answers": ["puente rectificador","Diodo","Capacitor","Resistencia"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 27,
+    "image": "https://electronicaonline.net/wp-content/uploads/2023/09/led-que-es.webp",
+    "question": "¿Que componenete electronico es este?",
+    "answers": ["Transistor","Diodo","Capacitor","Resistencia"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 28,
+    "image": "https://cvrelectronica.com/productos/imagenes/display-7-segmentos-catodo-comun-lms-5161as.jpg",
+    "question": "¿Que componenete electronico es este?",
+    "answers": ["zener","Diodo","Display 7 segmentos","puente rectificador"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 29,
+    "image": "https://circuitoslistos.com/wp-content/uploads/2020/08/diodo-zener-3v3-13w-do41.jpg",
+    "question": "¿Que componenete electronico es este?",
+    "answers": ["final de carrera","Diodo","Zener","varicap"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 30,
+    "image": "https://onubaelectronica.es/wp-content/uploads/2020/08/diodo_varicap_bb910.jpg",
+    "question": "¿Que componenete electronico es este?",
+    "answers": ["Transistor","Diodo","Zener","varicap"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 31,
+    "image": "https://electronicaonline.net/wp-content/uploads/2021/09/diodo-varicap-simbolo.jpg",
+    "question": "¿Que elemento electronico Representa este simbolo?",
+    "answers": ["Zener","Capacitor","Rele","varicap"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 32,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6qrroA16FjM93zmSoVrMifDyAdlwyuCCdRg&s",
+    "question": "¿Que componenete electronico es este?",
+    "answers": ["Diodo tunel","Rele","Zener","varicap"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 33,
+    "image": "https://www.shutterstock.com/image-vector/symbol-tunnel-diode-icon-260nw-1708211104.jpg",
+    "question": "¿Que elemento electronico Representa este simbolo?",
+    "answers": ["Rele","Zener","varicap","Diodo tunel"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 34,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Schottky_diode_symbol.svg/1024px-Schottky_diode_symbol.svg.png",
+    "question": "¿Que elemento electronico Representa este simbolo?",
+    "answers": ["Interrumptor selector","schottky","pulsador electronico","Rele"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 35,
+    "image": "https://avsuwzdjuo.cloudimg.io/v7/_cs_/2023/06/647ef12947c27/ADL-80Y04TL.png?w=400&org_if_sml=1",
+    "question": "¿Que componenete electronico es este?",
+    "answers": ["diodo laser","pulsador electronico","Rele","schottky"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 36,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/S%C3%ADmbolo_del_diodo_l%C3%A1ser.jpg",
+    "question": "¿Que elemento electronico Representa este simbolo?",
+    "answers": ["schottky","diodo laser","pulsador electronico","Rele"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 37,
+    "image": "https://i0.wp.com/www.ingmecafenix.com/wp-content/uploads/2018/01/Fotodiodo.webp?resize=683%2C384&ssl=1",
+    "question": "¿Que componenete electronico es este?",
+    "answers": ["Rele","fotodiodo","Capacitor","Zener"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 38,
+    "image": "https://aprende.com/wp-content/uploads/2020/07/tipos-de-diodos-01-940x564.jpg",
+    "question": "¿Que elemento electronico Representa este simbolo?",
+    "answers": ["diodo laser","Capacitor","Rele","Fotodiodo"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 39,
+    "image": "https://printfiles.ultracoloringpages.com/24c5ff790ec42b5d2869efe2ff8a0518.png",
+    "question": "¿Que elemento electronico Representa este simbolo?",
+    "answers": ["Diodo chocley","diodo laser","schottky","Diodo tunel"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 40,
+    "image": "https://mediateca.educa.madrid.org/imagen.php?id=aa9ukfbb9hact7sb&type=2&m=550",
+    "question": "¿Que elemento electronico Representa este simbolo?",
+    "answers": ["Diodo chocley","Diodo tunel","Diodo pin","diodo laser"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 41,
+    "image": "https://electronicaonline.net/wp-content/uploads/2024/08/Transistor-NPN.webp",
+    "question": "¿Que componenete electronico es este?",
+    "answers": ["Transistor","inductor","Potenciometro","Tiristor"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 42,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Thyristor_circuit_symbol_es.jpg/250px-Thyristor_circuit_symbol_es.jpg",
+    "question": "¿Que elemento electronico Representa este simbolo?",
+    "answers": ["Tiristor","Diodo ","Potenciometro","Termistor"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 43,
+    "image": "https://maykolrey.com/imgi/resise-600-1731238730735-inductor_toroidal.jpg",
+    "question": "¿Que componenete electronico es este?",
+    "answers": ["Transistor","inductor","Potenciometro","Tiristor"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 44,
+    "image": "https://thumbs.dreamstime.com/z/s%C3%ADmbolo-del-transformador-de-n%C3%BAcleo-aire-para-dise%C3%B1o-circuito-icono-y-172661547.jpg",
+    "question": "¿Que componenete electronico es este?",
+    "answers": ["inductor","Potenciometro","transformador","Tiristor"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 45,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsYVANGuG11tYyRKY_gX7E3tvs7PJnf1sUAw&s",
+    "question": "¿Que elemento electronico Representa este simbolo?",
+    "answers": ["compuerta AND","Fuente","Compuerta OR","Interruptor"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 46,
+    "image": "https://www.picuino.com/es/_images/electronic-simbolo-puerta-or.png",
+    "question": "¿Que elemento electronico Representa este simbolo?",
+    "answers": ["Compuerta NOT","Fuente","Compuerta OR","Interruptor"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 47,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqLaDcV8P4PB6zPzRjwbyJdCuEGroTcIz0eA&s",
+    "question": "¿Que elemento electronico Representa este simbolo?",
+    "answers": ["compuerta NAND","Compuerta NOT","Compuerta NOR","Interruptor"],
     "correctAnswer": 0
   }
+ 
+ 
+  
+  
+  
+
+
+  
+  
+
 ]
