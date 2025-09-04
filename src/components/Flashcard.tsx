@@ -50,7 +50,7 @@ const Flashcard: React.FC<FlashcardProps> = ({
             <img
               src={flashcard.image}
               alt="Quiz question"
-              className="w-full h-64 object-cover rounded-lg shadow-md"
+              className="w-full h-auto object-contain rounded-lg shadow-md"
             />
           </div>
 
