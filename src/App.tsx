@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import StartScreen from './components/StartScreen';
 import FlashcardGame from './components/FlashcardGame';
 import { Flashcard } from './types/flashcard';
-import flashcardsData from './data/flashcards.json';
+import flashcardsData from './data/redes.json';
 
 type AppState = 'start' | 'playing';
 

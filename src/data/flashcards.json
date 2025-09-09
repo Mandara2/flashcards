@@ -543,6 +543,12 @@
   "question": "Dibuje el símbolo de un fusible.",
   "answers": ["...", "Continuar", "...", "..."],
   "correctAnswer": 1
+},
+{
+  "id": 82,
+  "question": "Haga la tabla de los colores para calcular el valor de cualquier resistencia.",
+  "answers": ["...", "Continuar", "...", "..."],
+  "correctAnswer": 1
 }
 
 

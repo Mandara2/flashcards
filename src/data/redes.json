@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "question": "¿Qué es un protocolo en redes?",
+    "answers": ["Una forma estandarizada de comunicación", "Una dirección IP de un dispositivo", "Un número de puerto asignado a un servicio", "Un dominio de internet"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "¿Qué función cumple un ISP?",
+    "answers": ["Provee acceso a internet", "Asigna direcciones IP dentro de una red", "Traduce nombres de dominio", "Gestiona la capa de transporte"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 3,
+    "question": "¿Qué significa MTU?",
+    "answers": ["Maximum Transfer Unit", "Maximum Transmission Upload", "Minimal Transport Unit", "Medium Transfer Utility"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "question": "¿Qué protocolo pertenece a la capa de transporte?",
+    "answers": ["UDP", "HTTP", "DNS", "Ethernet"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "¿Qué son los hosts en una red?",
+    "answers": ["Dispositivos finales que ejecutan aplicaciones", "Dispositivos que reenvían paquetes", "Protocolos de la capa de aplicación", "Medios de transmisión de datos"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "¿Qué dispositivos reenvían paquetes en una red?",
+    "answers": ["Routers y switches", "Hosts y protocolos", "Aplicaciones y servidores", "Puertos y tramas"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "¿Qué significa ancho de banda en redes?",
+    "answers": ["La capacidad de transmisión del medio", "El número de puertos disponibles", "La distancia máxima de una conexión", "El retardo de propagación de la señal"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "question": "¿Cuál es el puerto estándar de HTTP?",
+    "answers": ["80", "21", "25", "443"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "question": "¿Qué dirección identifica de forma única a una tarjeta de red?",
+    "answers": ["Dirección MAC", "Dirección IP", "Número de puerto", "Dirección de broadcast"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "question": "¿Qué protocolo se usa para asignar direcciones IP automáticamente?",
+    "answers": ["DHCP", "ARP", "DNS", "ICMP"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "question": "¿Qué protocolo traduce nombres de dominio a direcciones IP?",
+    "answers": ["DNS", "DHCP", "ICMP", "SSH"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "¿Qué protocolo se usa para relacionar direcciones IP y MAC?",
+    "answers": ["ARP", "DNS", "ICMP", "FTP"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "¿Qué protocolo se usa para enviar mensajes de error en redes IP?",
+    "answers": ["ICMP", "DHCP", "SSH", "Frame Relay"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "¿Qué versión de IP utiliza notación decimal con puntos?",
+    "answers": ["IPv4", "IPv6", "ICMPv4", "DNS"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "¿Qué capa define la transmisión de bits en un medio físico?",
+    "answers": ["Capa física", "Capa de enlace de datos", "Capa de red", "Capa de aplicación"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 16,
+    "question": "¿Qué capa usa direcciones IP para identificar nodos?",
+    "answers": ["Capa de red", "Capa de enlace de datos", "Capa física", "Capa de transporte"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "¿Qué protocolo de transporte es confiable?",
+    "answers": ["TCP", "UDP", "ICMP", "DNS"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 18,
+    "question": "¿Qué comando mide la latencia de una red mediante eco request y reply?",
+    "answers": ["ping", "tracert", "ipconfig", "nslookup"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "question": "¿Qué dirección MAC corresponde a un broadcast?",
+    "answers": ["ff:ff:ff:ff:ff:ff", "00:00:00:00:00:00", "11:11:11:11:11:11", "aa:aa:aa:aa:aa:aa"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "¿Qué dispositivo no reenvía mensajes de broadcast?",
+    "answers": ["Router", "Switch", "Hub", "Gateway"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "¿Qué protocolo permite la transferencia de archivos?",
+    "answers": ["FTP", "DNS", "DHCP", "ARP"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "¿Qué significa PDU en redes?",
+    "answers": ["Protocol Data Unit", "Packet Domain Utility", "Physical Data Upload", "Process Data User"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "¿Qué modelo de referencia tiene 7 capas?",
+    "answers": ["OSI/ISO", "TCP/IP", "Modelo híbrido", "Modelo de 5 capas"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 24,
+    "question": "¿Qué protocolo de aplicación funciona en el puerto 443?",
+    "answers": ["HTTPS", "HTTP", "FTP", "SSH"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 25,
+    "question": "¿Qué protocolo de red ofrece un servicio no confiable?",
+    "answers": ["UDP", "TCP", "ICMP", "DNS"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 26,
+    "question": "¿Qué protocolo permite configurar dinámicamente direcciones IP?",
+    "answers": ["DHCP", "DNS", "ARP", "ICMP"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 27,
+    "question": "¿Qué significa TTL en una trama de red?",
+    "answers": ["Time To Live", "Total Transmission Length", "Transfer Time Limit", "Transport Trace Line"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 28,
+    "question": "¿Qué dispositivo define el límite de un dominio de colisión?",
+    "answers": ["Switch", "Router", "Hub", "Gateway"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 29,
+    "question": "¿Qué dispositivo genera un dominio de broadcast por defecto?",
+    "answers": ["Switch", "Hub", "Router", "Servidor DNS"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 30,
+    "question": "¿Qué protocolo se utiliza para sesiones seguras de administración remota?",
+    "answers": ["SSH", "FTP", "DNS", "HTTP"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 31,
+    "question": "¿Qué modelo está centrado en transporte e Internet?",
+    "answers": ["TCP/IP", "OSI/ISO", "Modelo híbrido", "Ethernet"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 32,
+    "question": "¿Qué protocolo envía solicitudes y respuestas de eco para diagnosticar redes?",
+    "answers": ["ICMP", "DNS", "DHCP", "ARP"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 33,
+    "question": "¿Qué capa elimina la cabecera IP y TTL en el proceso de encapsulación?",
+    "answers": ["Capa de red", "Capa de aplicación", "Capa de transporte", "Capa física"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 34,
+    "question": "¿Qué protocolo es responsable de la traducción entre nombres y direcciones IP?",
+    "answers": ["DNS", "DHCP", "ARP", "ICMP"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 35,
+    "question": "¿Qué dirección IP indica que el destino es toda la red?",
+    "answers": ["Broadcast", "Unicast", "Multicast", "Loopback"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 36,
+    "question": "¿Qué protocolo permite verificar el estado de una conexión mediante segmentos?",
+    "answers": ["TCP", "UDP", "ICMP", "ARP"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 37,
+    "question": "¿Qué medio de transmisión ofrece mayor inmunidad a interferencias?",
+    "answers": ["Fibra óptica", "Cable de cobre", "Radiofrecuencia", "Satélite"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 38,
+    "question": "¿Qué dirección IP pertenece a IPv6?",
+    "answers": ["2001:0db8:85a3::8a2e:0370:7334", "192.168.1.1", "172.16.0.5", "10.0.0.1"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 39,
+    "question": "¿Qué protocolo se encarga de controlar errores en la comunicación?",
+    "answers": ["ICMP", "DNS", "ARP", "HTTP"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 40,
+    "question": "¿Qué dispositivo se utiliza como puerta de salida predeterminada hacia otra red?",
+    "answers": ["Gateway", "Switch", "Hub", "Servidor DHCP"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 41,
+    "question": "¿Qué capa del modelo OSI se encarga de la representación y formato de los datos?",
+    "answers": ["Capa de presentación", "Capa de aplicación", "Capa de red", "Capa de enlace de datos"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 42,
+    "question": "¿Qué comando de Windows muestra la ruta que sigue un paquete?",
+    "answers": ["tracert", "ping", "ipconfig", "nslookup"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 43,
+    "question": "¿Qué comando libera la dirección IP de un dispositivo en Windows?",
+    "answers": ["ipconfig /release", "ipconfig /renew", "ping", "tracert"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 44,
+    "question": "¿Qué comando renueva la dirección IP en Windows?",
+    "answers": ["ipconfig /renew", "ipconfig /release", "nslookup", "tracert"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 45,
+    "question": "¿Qué significa ARP?",
+    "answers": ["Address Resolution Protocol", "Automatic Routing Process", "Access Remote Port", "Active Resource Path"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 46,
+    "question": "¿Qué protocolo asigna direcciones automáticas cuando no hay servidor DHCP?",
+    "answers": ["APIPA", "ARP", "DNS", "ICMP"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 47,
+    "question": "¿Qué protocolo usa el puerto 22?",
+    "answers": ["SSH", "FTP", "DNS", "DHCP"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 48,
+    "question": "¿Qué protocolo usa el puerto 25?",
+    "answers": ["SMTP", "HTTP", "DNS", "SSH"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 49,
+    "question": "¿Qué protocolo se utiliza para obtener la hora en una red?",
+    "answers": ["NTP", "DNS", "ARP", "FTP"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 50,
+    "question": "¿Qué significa FCS en Ethernet?",
+    "answers": ["Frame Check Sequence", "Fast Communication Standard", "Fixed Control Segment", "Frame Control System"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 51,
+    "question": "¿Qué protocolo se usa en la capa de enlace de datos?",
+    "answers": ["Ethernet", "HTTP", "DNS", "TCP"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 52,
+    "question": "¿Qué dispositivo trabaja únicamente en capa 2 del modelo OSI?",
+    "answers": ["Switch", "Router", "Gateway", "Servidor DHCP"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 53,
+    "question": "¿Qué dispositivo envía la señal por todos sus puertos sin procesarla?",
+    "answers": ["Hub", "Switch", "Router", "Firewall"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 54,
+    "question": "¿Qué protocolo de correo se utiliza para enviar mensajes?",
+    "answers": ["SMTP", "IMAP", "POP3", "HTTP"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 55,
+    "question": "¿Qué protocolo de correo permite acceder a los mensajes desde múltiples dispositivos?",
+    "answers": ["IMAP", "POP3", "SMTP", "DNS"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 56,
+    "question": "¿Qué dirección IP está reservada para pruebas en el propio dispositivo?",
+    "answers": ["127.0.0.1", "255.255.255.255", "0.0.0.0", "224.0.0.1"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 57,
+    "question": "¿Qué protocolo se usa para transmisión de voz sobre IP?",
+    "answers": ["SIP", "FTP", "DNS", "ICMP"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 58,
+    "question": "¿Qué protocolo encapsula tramas para transmisión en redes WAN?",
+    "answers": ["Frame Relay", "Ethernet", "HTTP", "UDP"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 59,
+    "question": "¿Qué tipos de direcciones existen en el direccionamiento IP?",
+    "answers": ["Unicast, Broadcast y Multicast", "Privadas, Públicas y Locales", "Estáticas, Dinámicas y Virtuales", "Locales, Globales y Compartidas"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 60,
+    "question": "¿Qué documento define los estándares de Internet?",
+    "answers": ["RFC", "OSI", "DNS", "IEEE"],
+    "correctAnswer": 0
+  }
+]
